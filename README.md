@@ -1,0 +1,2 @@
+# wxauto
+wechar auto project
